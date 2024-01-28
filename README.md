@@ -1,6 +1,6 @@
 ## Task Maneger Application
 
-### Live Preview [Preview](https://lws-taskmanager.netlify.app/)
+### Live Preview [Preview](https://task-manage-app-2.netlify.app/)
 
 ### Technologies used in this application
 
@@ -27,8 +27,9 @@
 
 select or unselect the project name.
 
-> **Note**
-> In this project the server are used is a dummy local server.To start the server you have to download the "server" folder add install node dependency (e.x npm install) then start the server (e.x npm start).
+### Backend Url
+
+https://task-manager-b3k8.onrender.com/
 
 ### Web page screenshot
 
